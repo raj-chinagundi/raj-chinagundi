@@ -5,7 +5,7 @@
 - 🎓 I’m a sophomore pursuing my Bachelors in Electronics & Communication Engineering.
 - 👨‍💻 I am passionate about Web Dev, Machine Learning and AI.
 - 🌱 I’m currently trying to enhance my skills in the field of Computer Vision.
-- 🔭 I have a Youtube Channel: [R4 AI][course]!
+- 🔭 I have a Youtube Channel: [R4 AI][youtube]!
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ For Fun: I love to play FPS games and watch Web Series
 
