@@ -2,16 +2,11 @@
 
 ## About ME 🚀
 
-- 🎓 I’m a sophomore pursuing my Bachelors in Electronics & Communication Engineering.
-- 👨‍💻 I am passionate about Web Dev, Machine Learning and AI.
-- 🌱 I’m currently trying to enhance my skills in the field of Computer Vision.
-- 🔭 I have a Youtube Channel: [R4 AI][youtube]!
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🎓 Sophomore pursuing my Bachelors in Electronics & Communication Engineering.
+- 💻 Interest Areas: Web Development,Robotics,IoT, Machine Learning and AI.
+- 🌱 Currently working on DL projects and research.
+- 🔭 Youtube Channel: [R4 AI][youtube]
 - ⚡ For Fun: I love to play FPS games and watch Web Series
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31rgikwfybn4b5gdebxugeg5i32q)
 
 ### Connect with me:
 
