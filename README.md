@@ -2,7 +2,7 @@
 
 ## About ME 🚀
 
-- 🎓 Sophomore pursuing my Bachelors in Electronics & Communication Engineering.
+- 🎓 Sophomore pursuing Bachelors in Electronics & Communication Engineering.
 - 💻 Interest Areas: Web Development,Robotics,IoT, Machine Learning and AI.
 - 🌱 Currently working on DL projects and research.
 - 🔭 Youtube Channel: [R4 AI][youtube]
