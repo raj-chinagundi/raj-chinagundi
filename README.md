@@ -6,7 +6,7 @@
 - 💻 Interest Areas: Web Development,Robotics,IoT, Machine Learning and AI.
 - 🌱 Currently working on DL projects and research.
 - 🔭 Youtube Channel: [R4 AI][youtube]
-- ⚡ For Fun: I love to play FPS games and watch Web Series
+- ⚡ For Fun: Playing FPS games and watching series.
 
 ### Connect with me:
 
