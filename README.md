@@ -43,7 +43,7 @@
 
 </details>
 
-[website]: https://psykrypt.github.io/cv/
+[website]: https://basavraj-chinagundi.github.io/bL1nK/
 [twitter]: https://twitter.com/ChinagundiRaj
 [youtube]: https://www.youtube.com/channel/UCNSafXd4krHl8M17af4lABg
 [instagram]: https://www.instagram.com/rajchinagundi/
