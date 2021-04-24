@@ -1,6 +1,5 @@
 ## About ME 🚀
 
-- 🎓 Sophomore pursuing Bachelors in Electronics & Communication Engineering.
 - 💻 Interest Areas: Web Development,Robotics,IoT, Machine Learning and AI.
 
 ## Projects
