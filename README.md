@@ -1,12 +1,22 @@
-### Hi there, I'm Raj [website] 👋
-
 ## About ME 🚀
 
 - 🎓 Sophomore pursuing Bachelors in Electronics & Communication Engineering.
 - 💻 Interest Areas: Web Development,Robotics,IoT, Machine Learning and AI.
-- 🌱 Currently working on DL projects and research.
-- 🔭 Youtube Channel: [R4 AI][youtube]
-- ⚡ For Fun: Playing FPS games and watching series.
+
+## Projects
+
+|Project | Descrption | Images |
+|--|--|--|
+|**[bL1nK](https://basavraj-chinagundi.github.io/bL1nK/)**| My Portfolio Website|![example](https://github.com/basavraj-chinagundi/bL1nK/blob/main/images/website.jpg)|
+|**[muZip](https://muzip.herokuapp.com/)**| An web application where you can simply download your favourite artist's music any song or album in just one click!|![example](https://github.com/basavraj-chinagundi/muzip/blob/main/muzip.png)|
+|**[Piccauto](https://piccauto.herokuapp.com/)**| An web application where you can simply download any image you require and mail it to the recipient|![example](https://github.com/basavraj-chinagundi/Piccauto/blob/main/Piccauto.png)|
+|**[Anomaly Detection](https://github.com/basavraj-chinagundi/AnomalyDetection_Pycaret)**| Detection of anomalies using Pycaret automated machine learning library||
+|**[Thyroid Multivariate Classification](https://github.com/basavraj-chinagundi/Thyroid_Multivariate_Classification)**| Building a model for classifying type of binding protein||
+|**[DCGAN MRI](https://github.com/basavraj-chinagundi/muZip)**| Generating synthetic images using Deep Convolutional Generative Adversarial Network (DCGAN) for upscaling MRI dataset||
+|**[TimeSeries forecasting on sEMG](https://github.com/basavraj-chinagundi/TimeSeries_Forecasting_On_sEMG)**| Building LSTM model for classification of movements using signal processing techniques||
+|**[Face Detection](https://github.com/basavraj-chinagundi/Face_detection)**| Detecting faces in realtime using open cv||
+|**[dsAlgo](https://github.com/basavraj-chinagundi/dsAlgo)**| Problem solving using data structures and algorithms||
+
 
 ### Connect with me:
 
