@@ -7,6 +7,7 @@
 |Project | Descrption | Images |
 |--|--|--|
 |**[bL1nK](https://basavraj-chinagundi.github.io/bL1nK/)**| My Portfolio Website|![example](https://github.com/basavraj-chinagundi/bL1nK/blob/main/images/website.jpg)|
+|**[dodgeChat](https://dodgechat.herokuapp.com/)**| An socket based chat application where you can where you can chat with other users in the same room just|![example](https://github.com/basavraj-chinagundi/dodgeChat/blob/main/Screenshot%20from%202021-04-28%2000-23.png)|
 |**[muZip](https://muzip.herokuapp.com/)**| An web application where you can simply download your favourite artist's music any song or album in just one click!|![example](https://github.com/basavraj-chinagundi/muzip/blob/main/muzip.png)|
 |**[Piccauto](https://piccauto.herokuapp.com/)**| An web application where you can simply download any image you require and mail it to the recipient|![example](https://github.com/basavraj-chinagundi/Piccauto/blob/main/Piccauto.png)|
 |**[Anomaly Detection](https://github.com/basavraj-chinagundi/AnomalyDetection_Pycaret)**| Detection of anomalies using Pycaret automated machine learning library||
