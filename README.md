@@ -12,10 +12,11 @@
 |**[Piccauto](https://piccauto.herokuapp.com/)**| An web application where you can simply download any image you require and mail it to the recipient|![example](https://github.com/basavraj-chinagundi/Piccauto/blob/main/Piccauto.png)|
 |**[Anomaly Detection](https://github.com/basavraj-chinagundi/AnomalyDetection_Pycaret)**| Detection of anomalies using Pycaret automated machine learning library||
 |**[Thyroid Multivariate Classification](https://github.com/basavraj-chinagundi/Thyroid_Multivariate_Classification)**| Building a model for classifying type of binding protein||
-|**[DCGAN MRI](https://github.com/basavraj-chinagundi/muZip)**| Generating synthetic images using Deep Convolutional Generative Adversarial Network (DCGAN) for upscaling MRI dataset||
+|**[DCGAN MRI](https://github.com/basavraj-chinagundi/DCGAN_imagegeneration)**| Generating synthetic images using Deep Convolutional Generative Adversarial Network (DCGAN) for upscaling MRI dataset||
 |**[TimeSeries forecasting on sEMG](https://github.com/basavraj-chinagundi/TimeSeries_Forecasting_On_sEMG)**| Building LSTM model for classification of movements using signal processing techniques||
 |**[Face Detection](https://github.com/basavraj-chinagundi/Face_detection)**| Detecting faces in realtime using open cv||
 |**[dsAlgo](https://github.com/basavraj-chinagundi/dsAlgo)**| Problem solving using data structures and algorithms||
+|**[unet](https://github.com/basavraj-chinagundi/unetB)**| Unet Binary segementation on aerial dataset||
 
 
 ### Connect with me:
