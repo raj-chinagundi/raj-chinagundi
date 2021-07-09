@@ -6,17 +6,9 @@
 
 |Project | Descrption | Images |
 |--|--|--|
-|**[bL1nK](https://basavraj-chinagundi.github.io/portfolio/)**| My Portfolio Website||
 |**[dodgeChat](https://dodgechat.herokuapp.com/)**| An socket based chat application where you can where you can chat with other users in the same room |![example](https://github.com/basavraj-chinagundi/dodgeChat/blob/main/Screenshot%20from%202021-04-28%2000-23.png)|
 |**[muZip](https://muzip.herokuapp.com/)**| An web application where you can simply download your favourite artist's music any song or album in just one click!|![example](https://github.com/basavraj-chinagundi/muzip/blob/main/muzip.png)|
 |**[Piccauto](https://piccauto.herokuapp.com/)**| An web application where you can simply download any image you require and mail it to the recipient|![example](https://github.com/basavraj-chinagundi/Piccauto/blob/main/Piccauto.png)|
-|**[Anomaly Detection](https://github.com/basavraj-chinagundi/AnomalyDetection_Pycaret)**| Detection of anomalies using Pycaret automated machine learning library||
-|**[Thyroid Multivariate Classification](https://github.com/basavraj-chinagundi/Thyroid_Multivariate_Classification)**| Building a model for classifying type of binding protein||
-|**[DCGAN MRI](https://github.com/basavraj-chinagundi/DCGAN_imagegeneration)**| Generating synthetic images using Deep Convolutional Generative Adversarial Network (DCGAN) for upscaling MRI dataset||
-|**[TimeSeries forecasting on sEMG](https://github.com/basavraj-chinagundi/TimeSeries_Forecasting_On_sEMG)**| Building LSTM model for classification of movements using signal processing techniques||
-|**[Face Detection](https://github.com/basavraj-chinagundi/Face_detection)**| Detecting faces in realtime using open cv||
-|**[dsAlgo](https://github.com/basavraj-chinagundi/dsAlgo)**| Problem solving using data structures and algorithms||
-|**[unet](https://github.com/basavraj-chinagundi/unetB)**| Unet Binary segementation on aerial dataset||
 
 
 ### Connect with me:
@@ -30,20 +22,6 @@
 <br />
 
 
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Machine Learning under 10 Minutes](https://www.youtube.com/watch?v=UOoXKPpFc7U)
-- [Exploratory Data Analysis in 15 minutes](https://www.youtube.com/watch?v=Nx7y1i0gr7U&t=7s)
-- [My first hack! dAInce App](https://www.youtube.com/watch?v=oIRfDjJ2iv8)
-
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCNSafXd4krHl8M17af4lABg)
-
 ---
 
 
@@ -54,7 +32,6 @@
 
 </details>
 
-[website]: https://basavraj-chinagundi.github.io/bL1nK/
 [twitter]: https://twitter.com/ChinagundiRaj
 [youtube]: https://www.youtube.com/channel/UCNSafXd4krHl8M17af4lABg
 [instagram]: https://www.instagram.com/rajchinagundi/
