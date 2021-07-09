@@ -23,14 +23,6 @@
 
 ---
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Raj's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=basavraj-chinagundi&show_icons=true&hide_border=true" />
-
-</details>
-
 [twitter]: https://twitter.com/ChinagundiRaj
 [youtube]: https://www.youtube.com/channel/UCNSafXd4krHl8M17af4lABg
 [instagram]: https://www.instagram.com/rajchinagundi/
