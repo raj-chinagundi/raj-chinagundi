@@ -8,7 +8,7 @@
 |--|--|--|
 |**[VisDrone_YOLOv5](https://github.com/basavraj-chinagundi/VisDrone_YOLOv5)**| Yolov5 based Custom object detector on VisDrone 2021 dataset|![example](https://github.com/basavraj-chinagundi/VisDrone_YOLOv5/blob/main/images/1.jpg)|
 |**[multi-Threading](https://github.com/basavraj-chinagundi/multi-threading)**| Processing speed comparison using multi threading|![example](https://github.com/basavraj-chinagundi/multi-threading/blob/main/thread.jpeg)|
-|**[dodgeChat](https://dodgechat.herokuapp.com/)**| An socket based chat application where you can where you can chat with other users in the same room |       ![example](https://github.com/basavraj-chinagundi/dodgeChat/blob/main/Screenshot%20from%202021-04-28%2000-23.png)|
+|**[dodgeChat](https://dodgechat.herokuapp.com/)**| An socket based chat application where you can where you can chat with other users in the same room |![example](https://github.com/basavraj-chinagundi/dodgeChat/blob/main/Screenshot%20from%202021-04-28%2000-23.png)|
 |**[muZip](https://muzip.herokuapp.com/)**| An web application where you can simply download your favourite artist's music any song or album in just one click!|![example](https://github.com/basavraj-chinagundi/muzip/blob/main/muzip.png)|
 |**[Piccauto](https://piccauto.herokuapp.com/)**| An web application where you can simply download any image you require and mail it to the recipient|![example](https://github.com/basavraj-chinagundi/Piccauto/blob/main/Piccauto.png)|
 
