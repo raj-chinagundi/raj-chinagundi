@@ -1,6 +1,21 @@
-## About ME 🚀
+#Hi I'm Basavraj <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
-- 💻 Interest Areas: Web Development,Robotics,IoT, Machine Learning and AI.
+## About 🚀
+I’m a third year undergraduate student at Thapar University.I'm driven and a passionate individual who is extremely curious about learning new technologies especially in the field of AI, ML and its applications in solving the real world problems by developing efficient models.
+
+- 💻 My Interests: Web Development,Robotics,IoT, Machine Learning and AI.
+
+![](https://activity-graph.herokuapp.com/graph?username=basavraj-chinagundi&theme=react-dark&hide_border=true&area=true)
+
+<table>
+  <tr>
+      <td><a href="https://github.com/basavraj-chinagundi"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub"></a></td>
+    <td><a href="https://twitter.com/ChinagundiRaj"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" width="22px"></a></td>
+    <td><a href="https://www.linkedin.com/in/basavrajchinagundi/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="22px"></a></td>
+    <td><a href="mailto:rajchinagundi10@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail" width="22px"></a></td>
+    <td><a href="https://www.instagram.com/rajchinagundi/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="22px"></a></td>
+  </tr>
+</table>
 
 ## Projects
 
@@ -12,8 +27,18 @@
 |**[muZip](https://muzip.herokuapp.com/)**| An web application where you can simply download your favourite artist's music any song or album in just one click!|![example](https://github.com/basavraj-chinagundi/muzip/blob/main/muzip.png)|
 |**[Piccauto](https://piccauto.herokuapp.com/)**| An web application where you can simply download any image you require and mail it to the recipient|![example](https://github.com/basavraj-chinagundi/Piccauto/blob/main/Piccauto.png)|
 
+## Github Stats
 
-### Connect with me:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=basavraj-chinagundi">
+
+<img src="https://github-readme-stats.vercel.app/api?username=basavraj-chinagundi&count_private=true&show_icons=true&theme=light" alt="Basavraj's Stats"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basavraj-chinagundi&layout=compact&theme=light"/>
+
+
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=basavraj-chinagundi" alt="devded" /> </p>
+<!-- ### Connect with me:
 
 [<img align="left" alt="R4 AI | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Raj| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -28,4 +53,4 @@
 [twitter]: https://twitter.com/ChinagundiRaj
 [youtube]: https://www.youtube.com/channel/UCNSafXd4krHl8M17af4lABg
 [instagram]: https://www.instagram.com/rajchinagundi/
-[linkedin]: https://www.linkedin.com/in/basavrajchinagundi/
+[linkedin]: https://www.linkedin.com/in/basavrajchinagundi/ -->
