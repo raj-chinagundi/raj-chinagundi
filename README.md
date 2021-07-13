@@ -1,11 +1,12 @@
 #Hi I'm Basavraj <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
+![](https://activity-graph.herokuapp.com/graph?username=basavraj-chinagundi&theme=react-dark&hide_border=true&area=true)
+
 ## About 🚀
 I’m a third year undergraduate student at Thapar University.I'm driven and a passionate individual who is extremely curious about learning new technologies especially in the field of AI, ML and its applications in solving the real world problems by developing efficient models.
 
 - 💻 My Interests: Web Development,Robotics,IoT, Machine Learning and AI.
 
-![](https://activity-graph.herokuapp.com/graph?username=basavraj-chinagundi&theme=react-dark&hide_border=true&area=true)
 
 ## Projects
 
@@ -20,16 +21,13 @@ I’m a third year undergraduate student at Thapar University.I'm driven and a p
 ## Github Stats
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=basavraj-chinagundi">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=basavraj-chinagundi&theme=dark">
 
 <img src="https://github-readme-stats.vercel.app/api?username=basavraj-chinagundi&count_private=true&show_icons=true&theme=dark" alt="Basavraj's Stats"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basavraj-chinagundi&layout=compact&theme=dark"/>
 
 
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=basavraj-chinagundi" alt="devded" /> </p>
-  
 </div>
 
 ### Connect with me:
@@ -40,7 +38,6 @@ I’m a third year undergraduate student at Thapar University.I'm driven and a p
 [<img align="left" alt="Raj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
 
 ---
 
