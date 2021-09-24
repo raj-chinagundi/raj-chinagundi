@@ -12,6 +12,7 @@ I’m a third year undergraduate student at Thapar University.I'm driven and a p
 
 |Project | Descrption | Images |
 |--|--|--|
+|**[HASOC_2021](https://github.com/basavraj-chinagundi/HASOC_2021)**| Hate Speech and Offensive Content Identification|![example](https://github.com/basavraj-chinagundi/HASOC_2021/blob/main/2.gif)|
 |**[VisDrone_YOLOv5](https://github.com/basavraj-chinagundi/VisDrone_YOLOv5)**| Yolov5 based Custom object detector on VisDrone 2021 dataset|![example](https://github.com/basavraj-chinagundi/VisDrone_YOLOv5/blob/main/images/1.jpg)|
 |**[multi-Threading](https://github.com/basavraj-chinagundi/multi-threading)**| Processing speed comparison using multi threading|![example](https://github.com/basavraj-chinagundi/multi-threading/blob/main/thread.jpeg)|
 |**[dodgeChat](https://dodgechat.herokuapp.com/)**| An socket based chat application where you can where you can chat with other users in the same room |![example](https://github.com/basavraj-chinagundi/dodgeChat/blob/main/Screenshot%20from%202021-04-28%2000-23.png)|
