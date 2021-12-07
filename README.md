@@ -1,6 +1,6 @@
 # Hi I'm Basavraj <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
-![](https://activity-graph.herokuapp.com/graph?username=basavraj-chinagundi&theme=react-dark&hide_border=true&area=true)
+<!-- ![](https://activity-graph.herokuapp.com/graph?username=basavraj-chinagundi&theme=react-dark&hide_border=true&area=true) -->
 
 ## About 🚀
 I’m a third year undergraduate student at Thapar University.I'm driven and a passionate individual who is extremely curious about learning new technologies especially in the field of AI, ML and its applications in solving the real world problems by developing efficient models.
