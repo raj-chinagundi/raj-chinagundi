@@ -12,7 +12,7 @@ I’m a third year undergraduate student at Thapar University.I'm driven and a p
 
 |Project | Descrption | Images |
 |--|--|--|
-|**[hushVoice](https://github.com/ritikrajdev/hackmit)**| Real time sign language based chatbot assistant|<p align="center"><img src="https://github.com/basavraj-chinagundi/hackmit/blob/main/iLoveYou.gif" height="110" width="125"></p>|
+|**[hushVoice](https://github.com/ritikrajdev/hackmit)**| Real time sign language based chatbot assistant|<p align="center"><img src="https://github.com/basavraj-chinagundi/hackmit/blob/main/iLoveYou.gif" height="90" width="125"></p>|
 |**[hushVoice](https://github.com/basavraj-chinagundi/sEMG-classification)**| Determining electromyographically if there are significant differences in the movement associated with the knee muscle, gait, leg extension from a sitting position, and flexion of the leg up for regular and abnormal sEMG data|<p align="center"><img src="https://github.com/basavraj-chinagundi/sEMG-classification/blob/main/The-placement-of-16-surface-EMG-sensors-and-two-accelerometers-over-lower-extremity.png" height="110" width="125"></p>|
 |**[HASOC_2021](https://github.com/basavraj-chinagundi/HASOC_2021)**| Hate Speech and Offensive Content Identification|<p align="center"><img src="https://github.com/basavraj-chinagundi/HASOC_2021/blob/main/2.gif" height="110" width="125"></p>|
 |**[VisDrone_YOLOv5](https://github.com/basavraj-chinagundi/VisDrone_YOLOv5)**| Yolov5 based Custom object detector on VisDrone 2021 dataset|<p align="center"><img src="https://github.com/basavraj-chinagundi/VisDrone_YOLOv5/blob/main/images/1.jpg" height="110" width="125"></p>|
