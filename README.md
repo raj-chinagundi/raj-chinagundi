@@ -18,7 +18,7 @@ I’m a third year undergraduate student at Thapar University.I'm driven and a p
 |**[multi-Threading](https://github.com/basavraj-chinagundi/multi-threading)**| Processing speed comparison using multi threading|<p align="center"><img src="https://github.com/basavraj-chinagundi/multi-threading/blob/main/thread.jpeg" height="110" width="125"></p>|
 |**[dodgeChat](https://dodgechat.herokuapp.com/)**| An socket based chat application where you can where you can chat with other users in the same room |<p align="center"><img src="https://github.com/basavraj-chinagundi/dodgeChat/blob/main/Screenshot%20from%202021-04-28%2000-23.png" height="110" width="125"></p>|
 |**[muZip](https://muzip.herokuapp.com/)**| An web application where you can simply download your favourite artist's music any song or album in just one click!|<p align="center"><img src="https://github.com/basavraj-chinagundi/muzip/blob/main/muzip.png" height="110" width="125"></p>|
-|**[Piccauto](https://piccauto.herokuapp.com/)**| An web application where you can simply download any image you require and mail it to the recipient|<p align="center"><img src="https://github.com/basavraj-chinagundi/Piccauto/blob/main/Piccauto.png" height="110" width="125"p>|
+|**[Piccauto](https://piccauto.herokuapp.com/)**| An web application where you can simply download any image you require and mail it to the recipient|<p align="center"><img src="https://github.com/basavraj-chinagundi/Piccauto/blob/main/Piccauto.png" height="110" width="125"></p>|
 
 ## Github Stats
 <div align="center">
