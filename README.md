@@ -4,8 +4,8 @@
 
 ## About 🚀
 :arrow_right: Junior year undergraduate student at Thapar Institute of Engineering Technology.<br>
-:arrow_right: I'm a driven and passionate individual who is extremely curious about learning new technologies 
-:arrow_right: 💻 My Interests: Web Development,Robotics,IoT, Machine Learning and AI.
+:arrow_right: I'm a driven and passionate individual who is extremely curious about learning new technologies <br>
+:arrow_right:💻 My Interests: Web Development,Robotics,IoT, Machine Learning and AI.
 
 
 ## Projects
