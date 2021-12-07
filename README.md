@@ -3,7 +3,7 @@
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=basavraj-chinagundi&theme=react-dark&hide_border=true&area=true) -->
 
 ## About 🚀
-Junior year undergraduate student at Thapar Institute of Engineering Technology.<bt>
+Junior year undergraduate student at Thapar Institute of Engineering Technology.<br>
 I'm a driven and passionate individual who is extremely curious about learning new technologies especially in the field of AI, ML and its applications in solving the real world problems by developing efficient models.
 
 - 💻 My Interests: Web Development,Robotics,IoT, Machine Learning and AI.
