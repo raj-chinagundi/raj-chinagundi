@@ -1,6 +1,6 @@
 # Hi I'm Basavraj <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=basavraj-chinagundi&theme=react-dark&hide_border=true&area=true) -->
+![](https://activity-graph.herokuapp.com/graph?username=basavraj-chinagundi&theme=react-dark&hide_border=true&area=true)
 
 ## About 🚀
 :arrow_right: Junior year undergraduate student at Thapar Institute of Engineering Technology.<br>
