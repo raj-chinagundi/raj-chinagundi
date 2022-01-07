@@ -51,3 +51,7 @@
 [youtube]: https://www.youtube.com/channel/UCNSafXd4krHl8M17af4lABg
 [instagram]: https://www.instagram.com/rajchinagundi/
 [linkedin]: https://www.linkedin.com/in/basavrajchinagundi/
+
+<br/>
+---
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=basavraj-chinagundi.basavraj-chinagundi)
