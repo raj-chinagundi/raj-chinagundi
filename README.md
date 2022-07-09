@@ -5,7 +5,6 @@ Deep Learning Enthusiast
 ------------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [link](https://rajchinagundicv.web.app/)
 * ✉️  You can contact me at [rajchinagundi10@gmail.com](mailto:rajchinagundi10@gmail.com)
 * 🧠  I'm learning Pytorch lightning, Docker
 * 🤝  I'm open to collaborating on any full stack deep learning projects
