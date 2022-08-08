@@ -14,6 +14,8 @@ Deep Learning Enthusiast
 src="https://img.shields.io/twitter/follow/tensor_rc?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/basavraj-chinagundi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/basavraj-chinagundi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<br>
+[![Basavraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=basavraj-chinagundi&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Skills
 
