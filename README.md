@@ -13,9 +13,9 @@ Deep Learning Enthusiast
 <a href="https://www.twitter.com/tensor_rc" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/tensor_rc?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/basavraj-chinagundi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/basavraj-chinagundi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/raj-chinagundi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <br>
-[![Basavraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=basavraj-chinagundi&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Basavraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=raj-chinagundi&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Skills
 
@@ -51,7 +51,7 @@ src="https://img.shields.io/github/followers/basavraj-chinagundi?logo=github&sty
 
 <a href="http://www.github.com/raj-chinagundi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=basavraj-chinagundi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/basavraj-chinagundi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basavraj-chinagundi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/raj-chinagundi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basavraj-chinagundi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
