@@ -15,7 +15,8 @@ src="https://img.shields.io/twitter/follow/tensor_rc?logo=twitter&style=for-the-
 /></a><a href="https://www.github.com/basavraj-chinagundi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/raj-chinagundi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <br>
-[![Basavraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=raj-chinagundi&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Basavraj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=raj-chinagundi&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Basavraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=raj-chinagundi&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ### Skills
 
