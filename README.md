@@ -10,13 +10,6 @@ Deep Learning Enthusiast
 * 🤝  I'm open to collaborating on any full stack deep learning projects
 * ⚡  Googling is my thing ;)
 
-<a href="https://www.twitter.com/tensor_rc" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/tensor_rc?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/basavraj-chinagundi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/raj-chinagundi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<br>
-<!-- [![Basavraj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=raj-chinagundi&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-<!-- [![Basavraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raj-chinagundi&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ### Skills
 
