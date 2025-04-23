@@ -1,7 +1,7 @@
 Hi 👋 My name is Basavraj
 =========================
 
-Data Enthusiast
+Deep Learning Enthusiast
 ------------------------
 
 * 🌍  I'm based in India
