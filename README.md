@@ -6,8 +6,8 @@ Data Enthusiast
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [basavrajchinagundi10@gmail.com](mailto:basavrajchinagundi10@gmail.com)
-* 🧠  I'm learning Airflow, Docker
-* 🤝  I'm open to collaborating on any Data-Engineering and GenAI projects
+* 🧠  I'm learning VLLMs
+* 🤝  I'm open to collaborating on any NLP & CV projects
 * ⚡  Googling is my thing ;)
 
 
