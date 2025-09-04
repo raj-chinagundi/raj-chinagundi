@@ -4,7 +4,7 @@ Hi 👋 My name is Basavraj
 Deep Learning Enthusiast
 ------------------------
 
-* 🌍  I'm based in India
+* 🌍  Currently MS in CS Student @ASU
 * ✉️  You can contact me at [basavrajchinagundi10@gmail.com](mailto:basavrajchinagundi10@gmail.com)
 * 🧠  I'm currently learning about LLMs 
 * 🤝  I'm open to collaborating on any NLP & CV projects
