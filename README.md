@@ -6,9 +6,8 @@ Deep Learning Enthusiast
 
 * 🌍  Currently MS in CS Student @ASU
 * ✉️  You can contact me at [basavrajchinagundi10@gmail.com](mailto:basavrajchinagundi10@gmail.com)
-* 🧠  I'm currently learning about LLMs 
-* 🤝  I'm open to collaborating on any NLP & CV projects
-* ⚡  Googling is my thing ;)
+* 🧠  I'm currently learning about Agents
+
 
 
 ### Skills
